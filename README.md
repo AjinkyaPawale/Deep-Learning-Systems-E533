@@ -8,4 +8,4 @@
 - Shivani Vogiral (svogiral@iu.edu)
 - Aniket Kale (ankale@iu.edu)
 
-### Covers Assignments done in class for Deep Learning E-533 course.
+### Covers Assignments and Project done in class for Deep Learning E-533 course.
